@@ -56,9 +56,9 @@ Replace `image.jpeg` with your desired background image, ensuring the filename r
   - Background colors and effects
 
 ### 5️⃣ Add Your Name
-- Replace `Your Teddy` in **index.html** with your own signature:
+- Replace `Your Bunny` in **index.html** with your own signature:
   ```html
-  <a rel="noopener" href="https://www.linkedin.com/in/mjhasan21/" target="_blank">Your Teddy</a>
+  <a rel="noopener" href="https://www.linkedin.com/in/mjhasan21/" target="_blank">Your Bunny</a>
   ```
 
 ## 🚀 How to Use
